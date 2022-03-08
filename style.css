@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+justify-content: space-between;
+}
+
+.category{
+    /* width:
+    height: */
+    border-style: solid;
+    padding:10px;
+    
+}
